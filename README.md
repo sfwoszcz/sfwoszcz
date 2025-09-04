@@ -1,5 +1,6 @@
 ## Hey Guys 👋
 
+
 <!--
 **sfwoszcz/sfwoszcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2025, 06_00_43 PM" src="https://github.com/user-attachments/assets/ebbde265-1283-456e-ad27-9d9e47a23c77" />
